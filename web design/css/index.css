@@ -1,0 +1,72 @@
+.topbar{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+#container{
+    width: 70%;
+    margin: 0px auto;
+
+}
+#header ul{
+    float: right;
+
+
+}
+#header ul li{
+    display: inline;
+
+}
+#header ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+#banner img{
+    width: 100%;
+}
+#content1{
+    width: 32%;
+    background-color: red;
+    height: 350px;
+    margin-right: 2%;
+    float: left;
+    padding-top: 5px;
+
+
+}
+.heading{
+    color: white;
+    margin-left: 15px;
+    font-size: 25px;
+}
+
+.para1{
+    color: white;
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 10px;
+}
+.more{
+    text-decoration: none;
+    background-color: white;
+    margin-left: 15px;
+    padding: 5px;
+    color: black;
+}
+#content2{
+    width: 32%;
+    background-color: orange;
+    height: 350px;
+    float: left;
+    padding-top: 5px;
+}
+
+#content3{
+    width: 32%;
+    background-color: blue;
+    height: 350px;
+    float: right;
+    padding-top: 5px;
+}
